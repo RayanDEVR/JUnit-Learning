@@ -1,0 +1,23 @@
+# Java compiled files
+*.class
+
+# Maven build output (in any project)
+**/target/
+
+# Eclipse build output
+**/bin/
+**/bin_test/
+
+# Eclipse workspace metadata
+.metadata/
+
+# IDE files
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
